@@ -1,2 +1,2 @@
-# Bumble-Crucifix
+# Bumble-crucifix
 Bumble
